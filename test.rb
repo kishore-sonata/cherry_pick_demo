@@ -7,4 +7,7 @@ class Test
 
   def commit3
   end
+
+  def commit4
+  end
 end
